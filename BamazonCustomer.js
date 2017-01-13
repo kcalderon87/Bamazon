@@ -47,7 +47,7 @@ function purchase(){
              // Stock Quantity Check
             if (answers.stock > res[0].stock){
             	console.log(" ");
-            	console.log("Insufficient quantity!: There are only "+ res[0].stock+" items left in stock!" );
+            	console.log("Insufficient quantity! There is/are only "+ res[0].stock+" items left in stock!" );
             
             purchase();
           } 
