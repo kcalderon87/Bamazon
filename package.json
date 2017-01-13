@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Mock app using mySQL",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^1.0.3",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcalderon87/Bamazon.git"
+  },
+  "author": "Kimberly Calderon",
+  "license": "Self",
+  "bugs": {
+    "url": "https://github.com/kcalderon87/Bamazon"
+  },
+  "homepage": "https://github.com/kcalderon87/Bamazon
+}
